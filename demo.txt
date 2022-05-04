@@ -1,1 +1,4 @@
-this line is added in by feature 2
+
+this lne change made by feature 1 8 times
+
+>>>>>>> feature1
